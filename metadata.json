@@ -1,0 +1,6 @@
+{
+  "name": "Menezes, Castro & Silveira Advogados",
+  "description": "Site institucional moderno e ético de advocacia especializada em Direito Civil, Trabalhista, Família, Empresarial, Penal e Tributário com atendimento humanizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
